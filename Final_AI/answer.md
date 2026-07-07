@@ -2,7 +2,7 @@
 
 The edited image with the added **Black Bear** is shown below.
 
-![Black Bear Added](picture_AI_answer.png)
+![Black Bear Added](picture_AI.png)
 
 ---
 
@@ -20,9 +20,13 @@ For this task I used **Craiyon**. I found the website while searching for free A
 
 > **"Can you add a Black Bear to this picture being there?"**
 
+![Black Bear prompt](Screenshot0.png)
+
 5. Submit the prompt and wait for the AI to generate the edited image.
 6. Review the generated results and choose the version where the black bear is naturally blended into the landscape.
 7. Download the final image.
+
+![Black Bear saved](Screenshot1.png)
 
 ## Notes
 - No registration or sign-up was required.
